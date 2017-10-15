@@ -1,2 +1,2 @@
 # bashrc
-bashrc command prompt customization
+bashrc command prompt color and info customization
