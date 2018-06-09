@@ -8,7 +8,7 @@ fi
 # Uncomment the following line if you don't like systemctl's auto-paging feature:
 # export SYSTEMD_PAGER=
 
-### User specific aliases and functions
+##### User specific aliases and functions
 #Display hidden files, color, group sort directories, and timestamp with log-iso
 alias ls='ls -AF --color=auto --group-directories-first --time-style=long-iso'
 
